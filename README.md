@@ -11,11 +11,11 @@ Mobile Team in Shinetech Zhengzhou
 
 **Preview link:** [http://colibri.osvlabs.com](http://colibri.osvlabs.com)
 
-**Project Keywords** ：
+**Project Keywords:** 
 
 Game, html5, cocos2d-x, Chipmunk
 
-**Project Description** ：
+**Project Description:** 
 
 This is an adventure game created with Cocos2d-x 3.10 and JavaScript binding. It’s possible to released to both web browser (with WebGL/Canvas implementation), and native platforms(iOS, Android, PC or Mac). 
 Physics engine Chipmunk is involved in this game to deal with everything like collision detection, etc.
@@ -30,11 +30,11 @@ Physics engine Chipmunk is involved in this game to deal with everything like co
 
 **Download URL:** [Android](https://goo.gl/yLxGog)
 
-**Project Keywords** ：
+**Project Keywords:** 
 
 Cocos2d-x, Lua
 
-**Project Description** ：
+**Project Description:** 
 
 A cross platforms mobile game. Casual and puzzle game. Help the user to improve their memory ability, compute skill and reaction speed.
 Based on Cocos2d-x and Quick frameworks.
@@ -53,11 +53,11 @@ Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 **Download URL:** [Android](https://goo.gl/3uPg6N)
 
-**Project Keywords** ：
+**Project Keywords:** 
 
 Cocos2d-x, Lua
 
-**Project Description** ：
+**Project Description:** 
 
 A cross platforms mobile game. Like 2048, but with different rules
 
@@ -71,17 +71,17 @@ Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 #### Case 4：
 
-**Project name** ：Stiqer
+**Project name:** Stiqer
 
 **Platforms:** iOS &amp; Android
 
-**App Download URL** :   [https://goo.gl/ZpRj2F](https://goo.gl/ZpRj2F)
+**App Download URL:**   [https://goo.gl/ZpRj2F](https://goo.gl/ZpRj2F)
 
-**Project Keywords** ：
+**Project Keywords:** 
 
 Social, QR code, folder animation
 
-**Project Description** ：
+**Project Description:** 
 
 Stiqer is a social loyalty app that is redefining the way loyalty programs are used. Visit participating stores and scan the QR code to earn stickers. Gather enough stickers and you are eligible to redeem awesome rewards!
 
@@ -93,15 +93,15 @@ Stiqer provides adds a social experience on top of the traditional loyalty progr
 
 #### Case 5：
 
-**Project name** ：Anxin Anjia
+**Project name:** Anxin Anjia
 
 **Platforms:** iOS &amp; Android
 
-**Project Keywords** ：
+**Project Keywords:** 
 
 Social, QR code, payment with WEIXIN, ALIPAY, Stripe, Share with Facebook &amp; Youtube
 
-**Project Description** ：
+**Project Description:** 
 
 This product is a consultation platform used to solve problems, such as tax, education, medical treatment and insurance, for people who want to immigrate abroad. Users can have a face-to-face talk with the professional people after completing the online payment.
 
@@ -116,15 +116,15 @@ This product is a consultation platform used to solve problems, such as tax, edu
 
 **Platform:** Android
 
-**Project Keywords** ：
+**Project Keywords:** 
 
 PCM data capture, PCM data play, UDP connection
 
-**Project Description** ：
+**Project Description:** 
 
 This product is an instant messaging tool for gas station. In the Wi-Fi environment, Android cluster can be connected to the PC host, so phone calls and intercom can be realized.
 
-**Screenshot** ：
+**Screenshot:** 
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/tel.png)
 
@@ -132,13 +132,13 @@ This product is an instant messaging tool for gas station. In the Wi-Fi environm
 
 **Project name** : Yitou Finance
 
-Download links:
+**Download links:**
 
 iOS: [https://appsto.re/i6YV5Ny](https://appsto.re/i6YV5Ny)
 
 Android: [http://goo.gl/t1ZEg7](http://goo.gl/t1ZEg7)
 
-**Project Description** ：
+**Project Description:** 
 
 This app, featuring the function of financial and investment, enables its users to buy products for the purpose of getting more profits. In addition, users also can take participate in activities freely to experience the app.
 
@@ -159,7 +159,7 @@ Android: [https://goo.gl/SaKkz8](https://goo.gl/SaKkz8)
 
 iOS: [https://appsto.re/i6YV6bV](https://appsto.re/i6YV6bV)
 
-**Project Description** ：
+**Project Description:** 
 
 This product can help user to view the camera video from Android device.
 
@@ -178,11 +178,11 @@ This app also supports screenshot and screen recorder. UVC camera is available a
 
 **Platform:** iOS
 
-**Project Keywords** ：
+**Project Keywords:** 
 
 Face detector, style analysis, 3D dresses up monitor.
 
-**Project Description** ：
+**Project Description:** 
 
 It used facial recognition technology; scanning faces generated report style and created a small puppet. Users could use small puppet try the garment on, check the effect of 3d later, also could choose their favorite fabrics, and design customized clothing and then complete the order for the operation.
 
@@ -200,7 +200,7 @@ Android: [https://goo.gl/1mxJGI](https://goo.gl/1mxJGI)
 
 iOS: [https://appsto.re/i6YP5V5](https://appsto.re/i6YP5V5)
 
-**Project Description** ：
+**Project Description:** 
 
 This app provides many latest pilot or related jobs to apply. The user can edit the resume and upload photos to the server. It supports several job type such as pilot, cabin crew, mechanic, and group crew. Different countries and regions are all involved. Be compatible with iPhone 4+, iPad, iPod touch, iOS 6~9.
 
