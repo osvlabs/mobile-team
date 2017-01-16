@@ -1,8 +1,5 @@
-## Mobile Team in Shinetech Zhengzhou 
-
-### Project Introductions of iOS, Android, HTML 5 Apps/Games
-
-## Mobile Team in Shinetech Zhengzhou 
+Mobile Team in Shinetech Zhengzhou
+====
 
 ### Project Introductions of iOS, Android, HTML 5 Apps/Games
 
