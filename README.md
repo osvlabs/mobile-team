@@ -1,7 +1,8 @@
 Mobile Team in Shinetech Zhengzhou
 ====
 
-### Project Introductions of iOS, Android, HTML 5 Apps/Games
+Project Introductions of iOS, Android, HTML 5 Apps/Games
+----
 
 #### Case 1：
 
@@ -21,6 +22,8 @@ This is an adventure game created with Cocos2d-x 3.10 and JavaScript binding. It
 Physics engine Chipmunk is involved in this game to deal with everything like collision detection, etc.
 
 **Screenshot** ：
+
+---
 
 #### Case 2:
 
@@ -44,6 +47,8 @@ Admob and ShareSDK are involved in this game.
 Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 **Screenshot** ：
+
+---
 
 #### Case 3:
 
@@ -69,6 +74,8 @@ Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 **Screenshot** ：
 
+---
+
 #### Case 4：
 
 **Project name:** Stiqer
@@ -91,6 +98,8 @@ Stiqer provides adds a social experience on top of the traditional loyalty progr
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/Stiqer.png)
 
+---
+
 #### Case 5：
 
 **Project name:** Anxin Anjia
@@ -110,6 +119,8 @@ This product is a consultation platform used to solve problems, such as tax, edu
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/axaj1.png)
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/axaj2.png)
 
+---
+
 #### Case 6：
 
 **Project name** : Lan Voice Communication
@@ -127,6 +138,8 @@ This product is an instant messaging tool for gas station. In the Wi-Fi environm
 **Screenshot:** 
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/tel.png)
+
+---
 
 #### Case 7：
 
@@ -148,6 +161,8 @@ It is compatible with android 4.4+.
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/ytcf1.png)
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/ytcf2.png)
+
+---
 
 #### Case 8：
 
@@ -172,6 +187,8 @@ This app also supports screenshot and screen recorder. UVC camera is available a
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/camera1.png)
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/camera2.png)
 
+---
+
 #### Case 9：
 
 **Project name** : iTailor
@@ -189,6 +206,8 @@ It used facial recognition technology; scanning faces generated report style and
 **Screenshot** ：
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/iTailor.png)
+
+---
 
 #### Case 10：
 
