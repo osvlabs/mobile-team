@@ -89,7 +89,7 @@ Stiqer provides adds a social experience on top of the traditional loyalty progr
 
 **Screenshot** ：
 
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/Stiqer.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/Stiqer.png)
 
 #### Case 5：
 
@@ -107,8 +107,8 @@ This product is a consultation platform used to solve problems, such as tax, edu
 
 **Screenshot** ：
 
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/axaj1.png)
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/axaj2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/axaj1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/axaj2.png)
 
 #### Case 6：
 
@@ -126,7 +126,7 @@ This product is an instant messaging tool for gas station. In the Wi-Fi environm
 
 **Screenshot:** 
 
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/tel.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/tel.png)
 
 #### Case 7：
 
@@ -146,8 +146,8 @@ It is compatible with android 4.4+.
 
 **Screenshot** ：
 
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/ytcf1.png)
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/ytcf2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/ytcf1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/ytcf2.png)
 
 #### Case 8：
 
@@ -169,8 +169,8 @@ This app also supports screenshot and screen recorder. UVC camera is available a
 
 **Screenshot** ：
 
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/camera1.png)
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/camera2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/camera1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/camera2.png)
 
 #### Case 9：
 
@@ -188,7 +188,7 @@ It used facial recognition technology; scanning faces generated report style and
 
 **Screenshot** ：
 
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/iTailor.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/iTailor.png)
 
 #### Case 10：
 
@@ -210,5 +210,5 @@ In-App Purchase technology is also integrated. 3 auto-renew subscriptions are pr
 
 **Screenshot** ：
 
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/lpj1.png)
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/images/lpj2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/lpj1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/lpj2.png)
