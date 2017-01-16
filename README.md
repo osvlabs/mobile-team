@@ -23,6 +23,11 @@ Physics engine Chipmunk is involved in this game to deal with everything like co
 
 **Screenshot** ：
 
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/colibri1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/colibri2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/colibri3.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/colibri4.png)
+
 ---
 
 #### Case 2:
@@ -47,6 +52,9 @@ Admob and ShareSDK are involved in this game.
 Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 **Screenshot** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/crazyiq1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/crazyiq2.png)
 
 ---
 
@@ -73,6 +81,9 @@ Google Admob, ShareSDK and Game Center are involved in this game.
 Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 **Screenshot** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/eatnum1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/eatnum2.png)
 
 ---
 
