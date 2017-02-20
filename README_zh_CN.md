@@ -33,11 +33,11 @@ Game, html5, cocos2d-x, Chipmunk
 
 #### 项目 2:
 
-**项目名：** Crazy IQ
+**项目名：** 疯狂测智商
 
 **平台:** iOS, Android
 
-**Download URL:** [Android](https://goo.gl/yLxGog)
+**下载链接 :** [Android](https://goo.gl/yLxGog)
 
 **关键字:** 
 
@@ -45,12 +45,9 @@ Cocos2d-x, Lua
 
 **介绍:** 
 
-A cross 平台 mobile game. Casual and puzzle game. Help the user to improve their memory ability, compute skill and reaction speed.
-Based on Cocos2d-x and Quick frameworks.
+益智类游戏。提供多个级别，不同难度的关卡，以测试和锻炼玩家的记忆能力、反应能力、数学计算能力、图像识别能力等。
 
-Admob and ShareSDK are involved in this game.
-
-Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
+跨平台。基于 Cocos2d-x 和 Quick 框架。广告平台使用Admob。使用 ShareSDK 嵌入分享功能。 支持 iOS (iPhone, iPad) 和 Android (Mobile and Pad).
 
 **截图** ：
 
@@ -61,11 +58,11 @@ Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 #### 项目 3:
 
-**项目名：** Eat Num
+**项目名：** 吞噬数字
 
 **平台:** iOS, Android
 
-**Download URL:** [Android](https://goo.gl/3uPg6N)
+**下载链接 :** [Android](https://goo.gl/3uPg6N)
 
 **关键字:** 
 
@@ -73,13 +70,12 @@ Cocos2d-x, Lua
 
 **介绍:** 
 
-A cross 平台 mobile game. Like 2048, but with different rules
+吞噬数字是一款休闲益智类游戏，规则简单有趣，共一百多个关卡，每一关都可以有多种解法，使您可以通过游戏拓宽思维。
+游戏中，通过移动方块，将数字进行合并，使屏幕中只剩下一个数字，即取得胜利。
+* 移动到比自己小1的数字上，将增加1
+* 移动到空格子上，减少2，直至0
 
-Based on Cocos2d-x frameworks and native C++ language. Many C++11 features are involved.
-
-Google Admob, ShareSDK and Game Center are involved in this game.
-
-Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
+基于 Cocos2d-x 框架，原生 C++ 开发. 使用了大量的 C++11 特性。集成了 Google Admob, ShareSDK 和 iOS 平台下的 Game Center。支持 iOS (iPhone, iPad) 和 Android (Mobile and Pad).
 
 **截图** ：
 
@@ -94,11 +90,11 @@ Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 **平台:** iOS &amp; Android
 
-**App Download URL:**   [https://goo.gl/ZpRj2F](https://goo.gl/ZpRj2F)
+**App 下载链接 :**   [https://goo.gl/ZpRj2F](https://goo.gl/ZpRj2F)
 
 **关键字:** 
 
-Social, QR code, folder animation
+社交, 二维码扫描，动画
 
 **介绍:** 
 
@@ -112,13 +108,13 @@ Stiqer是一个提高用户忠诚度和用于店铺促销的应用，用户浏�
 
 #### 项目 5：
 
-**项目名:** Anxin Anjia
+**项目名:** 安心安家
 
-**平台:** iOS &amp; Android
+**平台:** iOS 和 Android
 
 **关键字:** 
 
-Social, QR code, payment with WEIXIN, ALIPAY, Stripe, Share with Facebook &amp; Youtube
+社交, 二维码扫描, 微信支付, 支付宝, Stripe, Facebook 和 Youtube 分享
 
 **介绍:** 
 
@@ -133,9 +129,9 @@ Social, QR code, payment with WEIXIN, ALIPAY, Stripe, Share with Facebook &amp; 
 
 #### 项目 6：
 
-**项目名** : Lan Voice Communication
+**项目名** : 局域网通信
 
-**Platform:** Android
+**平台:** Android
 
 **关键字:** 
 
@@ -153,9 +149,9 @@ This product is an instant messaging tool for gas station. In the Wi-Fi environm
 
 #### 项目 7：
 
-**项目名** : Yitou Finance
+**项目名** : 意投财富
 
-**Download links:**
+**下载链接 :**
 
 iOS: [https://appsto.re/i6YV5Ny](https://appsto.re/i6YV5Ny)
 
@@ -176,9 +172,9 @@ It is compatible with android 4.4+.
 
 #### 项目 8：
 
-**项目名:** WIFI Endoscope
+**项目名:** WIFI 内窥镜
 
-Download links:
+下载链接 :
 
 Android: [https://goo.gl/SaKkz8](https://goo.gl/SaKkz8)
 
@@ -190,7 +186,7 @@ This product can help user to view the camera video from Android device.
 
 The device can be connected to camera via 3G or WIFI. MJPEG, RTSP and other protocols are supported.
 
-This app also supports 截图 and screen recorder. UVC camera is available at the same time.
+This app also supports screenshot and screen recorder. UVC camera is available at the same time.
 
 **截图** ：
 
@@ -201,13 +197,13 @@ This app also supports 截图 and screen recorder. UVC camera is available at th
 
 #### 项目 9：
 
-**项目名** : iTailor
+**项目名** : 掌上裁缝
 
 **Platform:** iOS
 
 **关键字:** 
 
-Face detector, style analysis, 3D dresses up monitor.
+人脸识别, style analysis, 3D dresses up monitor.
 
 **介绍:** 
 
@@ -223,7 +219,7 @@ It used facial recognition technology; scanning faces generated report style and
 
 **项目名:** Latest Pilot Jobs
 
-Download links:
+下载链接 :
 
 Android: [https://goo.gl/1mxJGI](https://goo.gl/1mxJGI)
 
