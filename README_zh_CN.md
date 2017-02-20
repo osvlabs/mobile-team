@@ -1,12 +1,29 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [盛安德（郑州）移动研发团队 （English）](#%E7%9B%9B%E5%AE%89%E5%BE%B7%E9%83%91%E5%B7%9E%E7%A7%BB%E5%8A%A8%E7%A0%94%E5%8F%91%E5%9B%A2%E9%98%9F-english)
+  - [iOS, 安卓, HTML 5 应用/游戏项目介绍](#ios-%E5%AE%89%E5%8D%93-html-5-%E5%BA%94%E7%94%A8%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D)
+      - [Colibri Adventrue](#colibri-adventrue)
+      - [疯狂测智商](#%E7%96%AF%E7%8B%82%E6%B5%8B%E6%99%BA%E5%95%86)
+      - [吞噬数字](#%E5%90%9E%E5%99%AC%E6%95%B0%E5%AD%97)
+      - [Stiqer](#stiqer)
+      - [安心安家](#%E5%AE%89%E5%BF%83%E5%AE%89%E5%AE%B6)
+      - [局域网通信](#%E5%B1%80%E5%9F%9F%E7%BD%91%E9%80%9A%E4%BF%A1)
+      - [意投财富](#%E6%84%8F%E6%8A%95%E8%B4%A2%E5%AF%8C)
+      - [WIFI 内窥镜](#wifi-%E5%86%85%E7%AA%A5%E9%95%9C)
+      - [掌上裁缝](#%E6%8E%8C%E4%B8%8A%E8%A3%81%E7%BC%9D)
+      - [Latest Pilot Jobs](#latest-pilot-jobs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 盛安德（郑州）移动研发团队 （[English](https://github.com/osvlabs/mobile-team/blob/master/README.md)）
 ====
 
 iOS, 安卓, HTML 5 应用/游戏项目介绍
 ----
 
-#### 项目 1：
-
-**项目名：** Colibri Adventrue
+#### Colibri Adventrue
 
 **平台:** iOS, Android, Web (html5) 
 
@@ -31,9 +48,7 @@ Game, html5, cocos2d-x, Chipmunk
 
 ---
 
-#### 项目 2:
-
-**项目名：** 疯狂测智商
+#### 疯狂测智商
 
 **平台:** iOS, Android
 
@@ -56,9 +71,7 @@ Cocos2d-x, Lua
 
 ---
 
-#### 项目 3:
-
-**项目名：** 吞噬数字
+#### 吞噬数字
 
 **平台:** iOS, Android
 
@@ -84,9 +97,7 @@ Cocos2d-x, Lua
 
 ---
 
-#### 项目 4：
-
-**项目名:** Stiqer
+#### Stiqer
 
 **平台:** iOS &amp; Android
 
@@ -106,9 +117,7 @@ Stiqer是一个提高用户忠诚度和用于店铺促销的应用，用户浏�
 
 ---
 
-#### 项目 5：
-
-**项目名:** 安心安家
+#### 安心安家
 
 **平台:** iOS 和 Android
 
@@ -127,9 +136,7 @@ Stiqer是一个提高用户忠诚度和用于店铺促销的应用，用户浏�
 
 ---
 
-#### 项目 6：
-
-**项目名** : 局域网通信
+#### 局域网通信
 
 **平台:** Android
 
@@ -147,9 +154,7 @@ This product is an instant messaging tool for gas station. In the Wi-Fi environm
 
 ---
 
-#### 项目 7：
-
-**项目名** : 意投财富
+#### 意投财富
 
 **下载链接 :**
 
@@ -170,9 +175,7 @@ It is compatible with android 4.4+.
 
 ---
 
-#### 项目 8：
-
-**项目名:** WIFI 内窥镜
+#### WIFI 内窥镜
 
 下载链接 :
 
@@ -195,9 +198,7 @@ This app also supports screenshot and screen recorder. UVC camera is available a
 
 ---
 
-#### 项目 9：
-
-**项目名** : 掌上裁缝
+#### 掌上裁缝
 
 **Platform:** iOS
 
@@ -215,9 +216,7 @@ It used facial recognition technology; scanning faces generated report style and
 
 ---
 
-#### 项目 10：
-
-**项目名:** Latest Pilot Jobs
+#### Latest Pilot Jobs
 
 下载链接 :
 

@@ -1,12 +1,29 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Mobile Team in Shinetech Zhengzhou （中文）](#mobile-team-in-shinetech-zhengzhou-%E4%B8%AD%E6%96%87)
+  - [Project Introductions of iOS, Android, HTML 5 Apps/Games](#project-introductions-of-ios-android-html-5-appsgames)
+      - [Colibri Adventrue](#colibri-adventrue)
+      - [Crazy IQ](#crazy-iq)
+      - [Eat Num](#eat-num)
+      - [Stiqer](#stiqer)
+      - [Anxin Anjia](#anxin-anjia)
+      - [Lan Voice Communication](#lan-voice-communication)
+      - [Yitou Finance](#yitou-finance)
+      - [WIFI Endoscope](#wifi-endoscope)
+      - [iTailor](#itailor)
+      - [Latest Pilot Jobs](#latest-pilot-jobs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 Mobile Team in Shinetech Zhengzhou （[中文](https://github.com/osvlabs/mobile-team/blob/master/README_zh_CN.md)）
 ====
 
 Project Introductions of iOS, Android, HTML 5 Apps/Games
 ----
 
-#### Case 1：
-
-**Project name：** Colibri Adventrue
+#### Colibri Adventrue
 
 **Platforms:** iOS, Android, Web (html5) 
 
@@ -30,9 +47,7 @@ Physics engine Chipmunk is involved in this game to deal with everything like co
 
 ---
 
-#### Case 2:
-
-**Project name：** Crazy IQ
+#### Crazy IQ
 
 **Platforms:** iOS, Android
 
@@ -58,9 +73,7 @@ Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 ---
 
-#### Case 3:
-
-**Project name：** Eat Num
+#### Eat Num
 
 **Platforms:** iOS, Android
 
@@ -87,9 +100,7 @@ Support both iOS (iPhone, iPad) and Android (Mobile and Pad).
 
 ---
 
-#### Case 4：
-
-**Project name:** Stiqer
+#### Stiqer
 
 **Platforms:** iOS &amp; Android
 
@@ -111,9 +122,7 @@ Stiqer provides adds a social experience on top of the traditional loyalty progr
 
 ---
 
-#### Case 5：
-
-**Project name:** Anxin Anjia
+#### Anxin Anjia
 
 **Platforms:** iOS &amp; Android
 
@@ -132,9 +141,7 @@ This product is a consultation platform used to solve problems, such as tax, edu
 
 ---
 
-#### Case 6：
-
-**Project name** : Lan Voice Communication
+#### Lan Voice Communication
 
 **Platform:** Android
 
@@ -152,9 +159,7 @@ This product is an instant messaging tool for gas station. In the Wi-Fi environm
 
 ---
 
-#### Case 7：
-
-**Project name** : Yitou Finance
+#### Yitou Finance
 
 **Download links:**
 
@@ -175,9 +180,7 @@ It is compatible with android 4.4+.
 
 ---
 
-#### Case 8：
-
-**Project name:** WIFI Endoscope
+#### WIFI Endoscope
 
 Download links:
 
@@ -200,9 +203,7 @@ This app also supports screenshot and screen recorder. UVC camera is available a
 
 ---
 
-#### Case 9：
-
-**Project name** : iTailor
+#### iTailor
 
 **Platform:** iOS
 
@@ -220,9 +221,7 @@ It used facial recognition technology; scanning faces generated report style and
 
 ---
 
-#### Case 10：
-
-**Project name:** Latest Pilot Jobs
+#### Latest Pilot Jobs
 
 Download links:
 
