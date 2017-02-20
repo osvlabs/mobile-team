@@ -3,6 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [盛安德（郑州）移动研发团队 （English）](#%E7%9B%9B%E5%AE%89%E5%BE%B7%E9%83%91%E5%B7%9E%E7%A7%BB%E5%8A%A8%E7%A0%94%E5%8F%91%E5%9B%A2%E9%98%9F-english)
+  - [简介](#%E7%AE%80%E4%BB%8B)
+  - [成员](#%E6%88%90%E5%91%98)
   - [iOS, 安卓, HTML 5 应用/游戏项目介绍](#ios-%E5%AE%89%E5%8D%93-html-5-%E5%BA%94%E7%94%A8%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D)
       - [Colibri Adventrue](#colibri-adventrue)
       - [疯狂测智商](#%E7%96%AF%E7%8B%82%E6%B5%8B%E6%99%BA%E5%95%86)
@@ -19,6 +21,18 @@
 
 盛安德（郑州）移动研发团队 （[English](https://github.com/osvlabs/mobile-team/blob/master/README.md)）
 ====
+
+简介
+----
+我们开发手机应用、游戏、Web。
+
+成员
+----
+[Wayne](https://github.com/heapow)
+[Hans](https://github.com/zhanghuanchong)
+[Sean](https://github.com/louxin2015)
+[Faye](https://github.com/muYunFei)
+[Vitta](https://github.com/Joker-1991)
 
 iOS, 安卓, HTML 5 应用/游戏项目介绍
 ----

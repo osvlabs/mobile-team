@@ -3,6 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Mobile Team in Shinetech Zhengzhou （中文）](#mobile-team-in-shinetech-zhengzhou-%E4%B8%AD%E6%96%87)
+  - [Introduction](#introduction)
+  - [Members](#members)
   - [Project Introductions of iOS, Android, HTML 5 Apps/Games](#project-introductions-of-ios-android-html-5-appsgames)
       - [Colibri Adventrue](#colibri-adventrue)
       - [Crazy IQ](#crazy-iq)
@@ -19,6 +21,18 @@
 
 Mobile Team in Shinetech Zhengzhou （[中文](https://github.com/osvlabs/mobile-team/blob/master/README_zh_CN.md)）
 ====
+
+Introduction
+----
+We develop apps, games and websites, with :heart:.
+
+Members
+----
+[Wayne](https://github.com/heapow)
+[Hans](https://github.com/zhanghuanchong)
+[Sean](https://github.com/louxin2015)
+[Faye](https://github.com/muYunFei)
+[Vitta](https://github.com/Joker-1991)
 
 Project Introductions of iOS, Android, HTML 5 Apps/Games
 ----
