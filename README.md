@@ -81,10 +81,6 @@ Android: [https://play.google.com/store/apps/details?id=com.scopearound.app](htt
 This APP is used for the Wi-Fi camera device ScopeAround.
 ScopeAround is a powerful, lightweight video camera with three interchangeable camera heads, the Flexible, the Fit, and the Focus. Each of these specifications were designed to fulfill a unique desired view and function. 
 The camera records directly to your smartphone or device through wi-fi, so you can view and share your discoveries instantly.
-ScopeAround truly gives you a new way to learn, a new way to see yourself, a new way to work, and a new way to see the world.
-Whether you’re an aspiring scientist or an actual one, a professional worker or just a DIY dad, ScopeAround will help you uncover the details of what’s really around you.
-If you’re more focused on getting the job done than understanding the world, ScopeAround can also help. 
-The lightweight video camera can help you see the details you need to solve a problem.
 
 **Screenshot** ：
 

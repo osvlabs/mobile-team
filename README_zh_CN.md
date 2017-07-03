@@ -6,6 +6,8 @@
   - [简介](#%E7%AE%80%E4%BB%8B)
   - [成员](#%E6%88%90%E5%91%98)
   - [iOS, 安卓, HTML 5 应用/游戏项目介绍](#ios-%E5%AE%89%E5%8D%93-html-5-%E5%BA%94%E7%94%A8%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D)
+      - [商城](#%e5%95%86%e5%9f%8e)
+      - [Scope Around](#scopearound)
       - [Colibri Adventrue](#colibri-adventrue)
       - [疯狂测智商](#%E7%96%AF%E7%8B%82%E6%B5%8B%E6%99%BA%E5%95%86)
       - [吞噬数字](#%E5%90%9E%E5%99%AC%E6%95%B0%E5%AD%97)
@@ -36,6 +38,59 @@
 
 iOS, 安卓, HTML 5 应用/游戏项目介绍
 ----
+
+#### 商城
+
+**平台:** iOS, Android
+
+**关键字:** 
+
+Shopping, GEECR
+
+**介绍:** 
+
+该应用是以低价优质进口产品为特色的便捷开店卖货神器，通过打通国内外贸易链路，直接链接上亿欧洲正品货源，让每个人不仅可以买遍全球，还能卖遍全球。 
+
+**截图** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/3.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/4.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/5.png)
+
+---
+
+#### ScopeAround
+
+**平台:** iOS, Android
+
+**关键字:** 
+
+Wi-Fi, Camera, Tools
+
+**下载链接:**
+
+iOS: [https://itunes.apple.com/us/app/scopearound/id1039638713?mt=8](https://itunes.apple.com/us/app/scopearound/id1039638713?mt=8)
+
+Android: [https://play.google.com/store/apps/details?id=com.scopearound.app](https://play.google.com/store/apps/details?id=com.scopearound.app)
+
+**介绍:** 
+
+该APP用于Wi-Fi摄像头设备ScopeAround。
+ScopeAround是一款功能强大，重量轻的摄像头，具有三个可互换的摄像头。
+使用者可以通过Wi-Fi直接将摄象头捕捉到的画面显示在知能手机上,方便查看和分享。
+
+**截图** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/3.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/4.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/5.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/6.png)
+
+---
 
 #### Colibri Adventrue
 
