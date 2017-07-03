@@ -6,15 +6,17 @@
   - [Introduction](#introduction)
   - [Members](#members)
   - [Project Introductions of iOS, Android, HTML 5 Apps/Games](#project-introductions-of-ios-android-html-5-appsgames)
+      - [Shopping App](#shopping-app)
+      - [Scope Around](#scopearound)
       - [Colibri Adventrue](#colibri-adventrue)
       - [Crazy IQ](#crazy-iq)
       - [Eat Num](#eat-num)
       - [Stiqer](#stiqer)
       - [Anxin Anjia](#anxin-anjia)
-      - [Lan Voice Communication](#lan-voice-communication)
       - [Yitou Finance](#yitou-finance)
       - [WIFI Endoscope](#wifi-endoscope)
       - [iTailor](#itailor)
+      - [Lan Voice Communication](#lan-voice-communication)
       - [Latest Pilot Jobs](#latest-pilot-jobs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -36,6 +38,65 @@ Members
 
 Project Introductions of iOS, Android, HTML 5 Apps/Games
 ----
+
+#### Shopping App
+
+**Platforms:** iOS, Android
+
+**Project Keywords:** 
+
+Shopping, GEECR
+
+**Project Description:** 
+
+The app includes the support for users to buy and sell goods around the world. 
+Users can shop millions of products and manage orders from anywhere. Browse, shop by department, compare prices, read reviews, share products with friends, and check the status of orders.
+
+**Screenshot** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/3.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/4.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/geecr/5.png)
+
+---
+
+#### ScopeAround
+
+**Platforms:** iOS, Android
+
+**Project Keywords:** 
+
+Wi-Fi, Camera, Tools
+
+**Download links:**
+
+iOS: [https://itunes.apple.com/us/app/scopearound/id1039638713?mt=8](https://itunes.apple.com/us/app/scopearound/id1039638713?mt=8)
+
+Android: [https://play.google.com/store/apps/details?id=com.scopearound.app](https://play.google.com/store/apps/details?id=com.scopearound.app)
+
+**Project Description:** 
+
+This APP is used for the Wi-Fi camera device ScopeAround.
+ScopeAround is a powerful, lightweight video camera with three interchangeable camera heads, the Flexible, the Fit, and the Focus. Each of these specifications were designed to fulfill a unique desired view and function. 
+The camera records directly to your smartphone or device through wi-fi, so you can view and share your discoveries instantly.
+ScopeAround truly gives you a new way to learn, a new way to see yourself, a new way to work, and a new way to see the world.
+Whether you’re an aspiring scientist or an actual one, a professional worker or just a DIY dad, ScopeAround will help you uncover the details of what’s really around you.
+If you’re more focused on getting the job done than understanding the world, ScopeAround can also help. 
+The lightweight video camera can help you see the details you need to solve a problem.
+
+**Screenshot** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/1.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/2.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/3.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/4.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/5.png)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/scopearound/6.png)
+
+---
+
 
 #### Colibri Adventrue
 
@@ -155,24 +216,6 @@ This product is a consultation platform used to solve problems, such as tax, edu
 
 ---
 
-#### Lan Voice Communication
-
-**Platform:** Android
-
-**Project Keywords:** 
-
-PCM data capture, PCM data play, UDP connection
-
-**Project Description:** 
-
-This product is an instant messaging tool for gas station. In the Wi-Fi environment, Android cluster can be connected to the PC host, so phone calls and intercom can be realized.
-
-**Screenshot:** 
-
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/tel.png)
-
----
-
 #### Yitou Finance
 
 **Download links:**
@@ -232,6 +275,24 @@ It used facial recognition technology; scanning faces generated report style and
 **Screenshot** ：
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/iTailor.png)
+
+---
+
+#### Lan Voice Communication
+
+**Platform:** Android
+
+**Project Keywords:** 
+
+PCM data capture, PCM data play, UDP connection
+
+**Project Description:** 
+
+This product is an instant messaging tool for gas station. In the Wi-Fi environment, Android cluster can be connected to the PC host, so phone calls and intercom can be realized.
+
+**Screenshot:** 
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/tel.png)
 
 ---
 

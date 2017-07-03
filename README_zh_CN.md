@@ -11,10 +11,10 @@
       - [吞噬数字](#%E5%90%9E%E5%99%AC%E6%95%B0%E5%AD%97)
       - [Stiqer](#stiqer)
       - [安心安家](#%E5%AE%89%E5%BF%83%E5%AE%89%E5%AE%B6)
-      - [局域网通信](#%E5%B1%80%E5%9F%9F%E7%BD%91%E9%80%9A%E4%BF%A1)
       - [意投财富](#%E6%84%8F%E6%8A%95%E8%B4%A2%E5%AF%8C)
       - [WIFI 内窥镜](#wifi-%E5%86%85%E7%AA%A5%E9%95%9C)
       - [掌上裁缝](#%E6%8E%8C%E4%B8%8A%E8%A3%81%E7%BC%9D)
+      - [局域网通信](#%E5%B1%80%E5%9F%9F%E7%BD%91%E9%80%9A%E4%BF%A1)
       - [Latest Pilot Jobs](#latest-pilot-jobs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -150,23 +150,6 @@ Stiqer是一个提高用户忠诚度和用于店铺促销的应用，用户浏�
 
 ---
 
-#### 局域网通信
-
-**平台:** Android
-
-**关键字:** 
-
-PCM data capture, PCM data play, UDP connection
-
-**介绍:** 
-
-This product is an instant messaging tool for gas station. In the Wi-Fi environment, Android cluster can be connected to the PC host, so phone calls and intercom can be realized.
-
-**截图:** 
-
-![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/tel.png)
-
----
 
 #### 意投财富
 
@@ -229,6 +212,25 @@ It used facial recognition technology; scanning faces generated report style and
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/iTailor.png)
 
 ---
+
+#### 局域网通信
+
+**平台:** Android
+
+**关键字:** 
+
+PCM data capture, PCM data play, UDP connection
+
+**介绍:** 
+
+This product is an instant messaging tool for gas station. In the Wi-Fi environment, Android cluster can be connected to the PC host, so phone calls and intercom can be realized.
+
+**截图:** 
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/tel.png)
+
+---
+
 
 #### Latest Pilot Jobs
 
