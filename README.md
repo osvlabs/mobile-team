@@ -36,6 +36,13 @@ Members
 [Faye](https://github.com/muYunFei)
 [Vitta](https://github.com/Joker-1991)
 
+Skill stack
+----
+* iOS
+* Android
+* PHP
+* JavaScript
+
 Project Introductions of iOS, Android, HTML 5 Apps/Games
 ----
 
