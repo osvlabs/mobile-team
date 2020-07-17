@@ -305,3 +305,25 @@ iOS: [https://appsto.re/i6YP5V5](https://appsto.re/i6YP5V5)
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/lpj1.png)
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/lpj2.png)
+
+---
+
+#### Cages Mobile Pos
+
+**平台:** Android
+
+**关键字:**
+
+NFC, QR Code, 订单, 食物, 会员, 打印, 支付.
+
+**介绍:**
+
+该应用程序是基于Android系统的移动POS点餐系统，主要功能包括在线选择座位，下单，结帐，打印账单，NFC等。用户还可以扫描二维码进行自助点餐。
+
+**截图** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/1.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/2.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/3.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/4.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/5.jpg)

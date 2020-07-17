@@ -319,3 +319,25 @@ In-App Purchase technology is also integrated. 3 auto-renew subscriptions are pr
 
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/lpj1.png)
 ![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/lpj2.png)
+
+---
+
+#### Cages Mobile Pos
+
+**Platform:** Android
+
+**Project Keywords:**
+
+NFC, QR Code, Order, Food, Member, Print, Pay.
+
+**Project Description:**
+
+This app is based on the Android system's mobile POS, the main features include online select seats, ordering, checkout, print bills, NFC, etc. The user also can scan the QR code to self-service order.
+
+**Screenshot** ：
+
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/1.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/2.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/3.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/4.jpg)
+![](https://raw.githubusercontent.com/osvlabs/mobile-team/master/images/mobilepos/5.jpg)
